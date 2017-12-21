@@ -1,4 +1,7 @@
 {
     "root" : "./",
-    "plugins": ["katex"]
+    "plugins": [
+        "katex",
+        "exercises"
+    ]
 }
