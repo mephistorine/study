@@ -1,4 +1,4 @@
 # Summary
 
-- [Информатиция и ее кодирование](information-and-code/README.md)
+- [Информатика](compouter-sience/README.md)
     - 
