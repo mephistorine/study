@@ -1,4 +1,6 @@
 # Summary
 
-- [Информатика](compouter-sience/README.md)
+### Информатика
+
+- [Информация и ее кодирование](computer-sience/README.md)
     - 
